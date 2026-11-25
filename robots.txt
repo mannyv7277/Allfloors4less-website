@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allfloors4less.com/sitemap.xml
